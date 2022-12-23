@@ -1,0 +1,2 @@
+# gitops-and-kubernetes
+CONTINUOUS DEPLOYMENT WITH ARGO CD, JENKINS X, AND FLUX
