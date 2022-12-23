@@ -1,2 +1,2 @@
 # GitOps and Kubernetes
-Continuos Deployment with ArgoCD, Jenkins X and Flux
+Continuous Deployment with ArgoCD, Jenkins X and Flux
